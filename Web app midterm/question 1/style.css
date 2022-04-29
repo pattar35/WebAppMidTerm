@@ -1,0 +1,17 @@
+body{
+    background: #FAF0E6;
+}
+a:link {
+    color: rgb(255, 0, 0);
+    background-color: transparent;
+    text-decoration: none ;
+    
+  }
+  a:hover {
+    color: rgb(255, 0, 0) ;
+    background-color: rgb(78, 72, 72) ;
+    text-decoration:underline;
+  }
+a:visited {
+        color:magenta;
+      }
